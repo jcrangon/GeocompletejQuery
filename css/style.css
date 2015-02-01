@@ -1,0 +1,22 @@
+html,body, #canvas {
+	padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    width: 800px; 
+    margin: 0 auto;
+}
+
+input {
+	width: 300px; 
+}
+
+#canvas {
+	height: 600px; 
+}
+
+h1 {
+	font-size: 55px; 
+	font-weight: 100;
+	text-align: center; 
+}
